@@ -12,3 +12,8 @@ Contains a list of Apotheke in Germany who converts Indian vaccination certifica
 - <b>STUTTGART</b> - 
 
 1) Europa Apotheke, Konigstrasse 49, 70173 Stuttgart, Germany.
+
+- <b>Cologne</b>
+
+1) Gürzenich Apotheke , Gürzenichstraße 6-16, 50667 Köln, Germany.
+2) Kalker Apotheke , Kalker Hauptstraße 172, 51103 Köln, Germany.
