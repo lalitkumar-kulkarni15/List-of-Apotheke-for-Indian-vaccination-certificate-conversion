@@ -5,10 +5,10 @@ Contains a list of Apotheke in Germany who converts Indian vaccination certifica
 
 1) Minerva Apotheke - Wilmersdorfer Str. 135, 10627 Berlin.
 
-- BONN - 
+- <b>BONN</b> - 
 
 1) Biber Apotheke, am Friedensplatz
 
-- STUTTGART - 
+- <b>STUTTGART</b> - 
 
 1) Europa Apotheke, Konigstrasse 49, 70173 Stuttgart, Germany.
