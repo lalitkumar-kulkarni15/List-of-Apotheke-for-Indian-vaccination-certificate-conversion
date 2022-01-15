@@ -1,5 +1,7 @@
 # List of German Apotheke for Indian vaccination certificate conversion
-Contains a list of Apotheke in Germany who converts Indian vaccination certificate to German vaccination certificate. Please note :- The mentioned list of Apotheke is merely based on the inputs shared by people who have converted their vaccination certificates. Please use this information for your reference only. I will not be responsible in any way for any kind of issues anyone faces with the mentioned Apotheke or if this information is found not accurate.
+Contains a list of Apotheke in Germany who converts Indian vaccination certificate to German vaccination certificate. Please note :- The mentioned list of Apotheke is merely based on the inputs shared by people who have converted their vaccination certificates. 
+
+<b>Disclaimer</b> - Please use this information for your reference only. I will not be responsible in any way for any kind of issues anyone faces with the mentioned Apotheke or if this information is found not accurate.
 
 - <b>BERLIN</b> -
 
