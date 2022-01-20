@@ -20,3 +20,4 @@ Contains a list of Apotheke in Germany who converts Indian vaccination certifica
 1) Gürzenich Apotheke , Gürzenichstraße 6-16, 50667 Köln, Germany.
 2) Kalker Apotheke , Kalker Hauptstraße 172, 51103 Köln, Germany.
 3) Brucken Apotheke, Mulheim Weiner Platz , besides REWE.
+4) Köln Hbf Apotheke ( near Cologne HBF station ) Breslaurplatz exit. ( Try here, sometimes they don't provide ).
